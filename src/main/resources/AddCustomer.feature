@@ -1,8 +1,8 @@
-
+@regression
 Feature: Customer telecom details
   I want to use this template for my feature file
 
-  @tag1
+  @smoke
   Scenario: Telecome customer information
     Given I want to launch the browser 
     And enter the telecom webpage
